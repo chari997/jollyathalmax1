@@ -18,7 +18,7 @@ MONGO_URI = os.getenv("MONGO_URI")
 MAIN_CHANNEL = int(os.environ.get("MAIN_CHANNEL", "-1001618208549"))
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001618208549"))
 PRIVATE_LOG = int(os.environ.get("PRIVATE_LOG", "-1001660993748"))
-force_subchannel = os.getenv("FSUB", "GalkoriyeDainamait")
+force_subchannel = os.getenv("FSUB", "jollyathall")
 OWNER_ID = int(os.environ.get("OWNER_ID", "1884885842"))
 #Strings 
 WELCOME_TEXT = "Hello.. <b>{}</b>\n<code>Type your query here..\nI'll respond to your query as earliest</code> 😉\n\nуσυ ωαииα тσ киσω αвσυт мє😌? яєα∂ вєℓσω\n\nαвσυт @Gishankrishka:-\n •му иαмє:- Gishan Krishka \n •му αgє:- υикиσωи🌝\n •¢σмρυтєя ℓαиgυαgє:- ωєв ∂єνєℓσρмєит(ℓєαяиιиg), ρутнσи мσяє ѕσσи😁\n•¢нє¢к [About ༒❣️☢️╣IrØή❂mคŇ╠☢️❣️༒](https://t.me/Gishankrishka_Info_bot) fσя мσяє\n\nPlz Don't Send Stickers 🥲\nReason :- [This](https://t.me/ultchat/19589)"
@@ -65,7 +65,7 @@ START_BUTTON = InlineKeyboardMarkup([[
                  InlineKeyboardButton("➕ sʜᴀʀᴇ ᴄʜɴʟ ➕", switch_inline_query="cshare")
                  ],
                  [
-                 InlineKeyboardButton("┊Memes 『🇱🇰』", url="https://t.me/GalkoriyeDainamait")
+                 InlineKeyboardButton("┊Memes 『🇱🇰』", url="https://t.me/jollyathall")
                  ]]
                   )
 
