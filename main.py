@@ -980,7 +980,7 @@ Post By {inline_query.from_user.mention}
                  InlineKeyboardButton('🐞 Report Bugs 🐞', user_id="1195158318")
                  ],
                  [
-                 InlineKeyboardButton('Galkoriya ᴏᴍғғɪᴄɪᴀʟ ʙᴏᴍᴛ 『🇱🇰』', user_id="@GalkoriyeDainamaitbot")
+                 InlineKeyboardButton('Galkoriya ᴏᴍғғɪᴄɪᴀʟ ʙᴏᴍᴛ 『🇱🇰』', user_id="@jollyathall2bot")
                  ],
                  [
                  InlineKeyboardButton("➕ sʜᴀʀᴇ ʙᴏᴛ ➕", switch_inline_query="share"),
@@ -1010,13 +1010,13 @@ Post By {inline_query.from_user.mention}
 **Post by**: {inline_query.from_user.mention}
 """,
                     reply_markup=InlineKeyboardMarkup([[              
-                 InlineKeyboardButton("Galkoriya Telegram 🇱🇰', url=t.me/GalkoriyeDainamait")
+                 InlineKeyboardButton("Galkoriya Telegram 🇱🇰', url=t.me/jollyathall")
                  ],
                  [
                  InlineKeyboardButton('Owner 👑', user_id="@chari_x")
                  ],
                  [
-                 InlineKeyboardButton('Official Bot🤖', user_id="@GalkoriyeDainamaitbot")
+                 InlineKeyboardButton('Official Bot🤖', user_id="@jollyathall2bot")
                  ]])
                  
 
@@ -1035,9 +1035,9 @@ print("""
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ➖➖➖➖➖➖➖➖➖➖
-@GalkoriyeDainamaitbot has been deployed!
+@jollyathall2bot has been deployed!
 ➖➖➖➖➖➖➖➖➖➖
-Support: @GalkoriyeDainamait
+Support: @jollyathall
 ➖➖➖➖➖➖➖➖➖➖
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 """)
